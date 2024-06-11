@@ -16,7 +16,7 @@
 
 # 서버포트번호
 server:
-  port: 8080
+  port: 80
 
 spring:
   application:
